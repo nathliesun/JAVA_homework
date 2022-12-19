@@ -26,6 +26,7 @@ public class homework1 {
         System.out.println(m1[0]);
         System.out.println(m1[1]);
         System.out.println(m1[2]);
+        System.out.println(m1[3]);
         
         
         
@@ -47,5 +48,6 @@ public class homework1 {
         System.out.println(m2[0]);
         System.out.println(m2[1]);
         System.out.println(m2[2]);
+        System.out.println(m2[3]);
     }	
 }
